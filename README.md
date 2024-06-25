@@ -1,4 +1,4 @@
-![github-header-image](https://github.com/DeathlyWalker/DeathlyWalker/assets/164643336/fd7f466f-5c6e-4b64-877e-82d012684f6a)
+![github-header-image (1)](https://github.com/DeathlyWalker/DeathlyWalker/assets/164643336/f47170bb-9568-4af7-b744-7448a3a6652a)
 <h1 align="center">Hi 👋, I'm Sumit Gond</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMng2MDdibnJkcWZhdDluYnVjaWc0eXc1cGN3ZGZreXBvMjB6eGJ6dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif">
